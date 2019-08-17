@@ -26,7 +26,7 @@ Tinder for developers!
 
 ```
 	$ yarn react-native run-android # run-ios
-	$ yarn start # or $ $ react-native start
+	$ yarn start # or $ react-native start
 	# running on device
 	$ adb reverse tcp:3333 tcp:3333
 	$ adb reverse tcp:8081 tcp:8081	
@@ -34,6 +34,6 @@ Tinder for developers!
 
 <hr/>
 
-<em>Devloped during OmniStack 8.0 from Rocketseat</em>
+<p style="text-align:right;"><em>Devloped during OmniStack 8.0 from Rocketseat</em></p>
 
 
