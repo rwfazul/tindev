@@ -34,6 +34,6 @@ Tinder for developers!
 
 <hr/>
 
-<p style="text-align:right;"><em>Devloped during OmniStack 8.0 from Rocketseat</em></p>
+<p align="right"><em>Devloped during OmniStack 8.0 from Rocketseat</em></p>
 
 
