@@ -16,7 +16,7 @@ io.on('connection', socket => {
     console.log(user, socket.id);
 });
 
-mongoose.connect('mongodb+srv://omnistack:omnistack@cluster0-zafsl.mongodb.net/omnistack8?retryWrites=true&w=majority', { 
+mongoose.connect('mongodb+srv://<DB>:<PASSWORD>@<CLUSTER>/<DB>?retryWrites=true&w=majority', { 
     useNewUrlParser: true
 });
 
